@@ -11,3 +11,17 @@ C:\Users\GamerHead\source\repos\Лаба_3_задание_1_С_МЕТОДАМИ\
 C:\Users\GamerHead\source\repos\Лаба_3_задание_1_С_МЕТОДАМИ\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.dll
 C:\Users\GamerHead\source\repos\Лаба_3_задание_1_С_МЕТОДАМИ\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.pdb
 C:\Users\GamerHead\source\repos\Лаба_3_задание_1_С_МЕТОДАМИ\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.genruntimeconfig.cache
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\bin\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.exe
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\bin\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.deps.json
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\bin\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.runtimeconfig.json
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\bin\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.runtimeconfig.dev.json
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\bin\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.dll
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\bin\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.pdb
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.csproj.AssemblyReference.cache
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.AssemblyInfoInputs.cache
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.AssemblyInfo.cs
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.csproj.CoreCompileInputs.cache
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.dll
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.pdb
+C:\Users\Gomerich\Documents\GitHub\lab3.1\Лаба_3_задание_1\Лаба_3_задание_1_С_МЕТОДАМИ\obj\Debug\netcoreapp3.1\Лаба_3_задание_1_С_МЕТОДАМИ.genruntimeconfig.cache
